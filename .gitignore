@@ -1,0 +1,6 @@
+# PyInstaller
+build/
+dist/
+
+# IDEs
+.idea/
